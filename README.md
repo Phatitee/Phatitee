@@ -2,15 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:111827,100:334155&text=Chaimongkhon%20Nakkaew&fontColor=F8FAFC&fontSize=44&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20Engineering%20%7C%20Full-Stack%20Development%20%7C%20Artificial%20Intelligence&descAlignY=58&descSize=16" alt="Chaimongkhon Nakkaew profile banner" />
 
-<br />
-
-<a href="https://github.com/Phatitee">
-  <img src="https://komarev.com/ghpvc/?username=Phatitee&style=flat-square&color=0f172a" alt="Profile views" />
-</a>
-<a href="https://github.com/Phatitee?tab=followers">
-  <img src="https://img.shields.io/github/followers/Phatitee?style=flat-square&color=1e293b" alt="GitHub followers" />
-</a>
-
 </div>
 
 ---
