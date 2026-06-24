@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Phizpat 👋
+# Hi, I'm Phizpat
 
 ### Full-stack Developer | AI & Web App Builder
 
@@ -15,10 +15,10 @@ I build practical web applications, mobile systems, and tools that solve real wo
 
 ## About Me
 
-- 🚀 I enjoy turning ideas into working products
-- 🧭 Focused on web apps, mobile workflows, and productivity tools
-- 🛠️ Currently building with TypeScript, Next.js, Firebase, Java, and JavaScript
-- 📍 Based in Bangkok, Thailand
+- I enjoy turning ideas into working products
+- Focused on web apps, mobile workflows, and productivity tools
+- Currently building with TypeScript, Next.js, Firebase, Java, and JavaScript
+- Based in Bangkok, Thailand
 
 ---
 
@@ -40,14 +40,14 @@ I build practical web applications, mobile systems, and tools that solve real wo
 
 ## Featured Projects
 
-### 📍 EmTrack
+### EmTrack
 Mobile attendance system with GPS geofencing and photo verification.  
 Built with Next.js, Firebase, and Cloudinary.
 
-### 🌴 EasyPalm
+### EasyPalm
 JavaScript web application focused on practical user interaction and usability.
 
-### 🎓 KUStudentRequestOnline
+### KUStudentRequestOnline
 Java-based student request management system for academic workflows.
 
 ---
@@ -65,10 +65,10 @@ Java-based student request management system for academic workflows.
 
 ## Contact
 
-- GitHub: [github.com/Phatitee](https://github.com/Phatitee)
+GitHub: [github.com/Phatitee](https://github.com/Phatitee)
 
 <div align="center">
 
-Thanks for visiting my profile ✨
+Thanks for visiting my profile
 
 </div>
